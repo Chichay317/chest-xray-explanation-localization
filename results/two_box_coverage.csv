@@ -1,0 +1,4 @@
+,both boxes,only one box,neither box
+Grad-CAM,0.554,0.404,0.043
+Occlusion,0.446,0.53,0.023
+Baseline: usual location,0.921,0.061,0.018

@@ -1,0 +1,6 @@
+,estimate,ci_low,ci_high
+Grad-CAM,0.831,0.791,0.869
+Occlusion,0.855,0.82,0.89
+Baseline: usual location,0.598,0.55,0.649
+Grad-CAM minus baseline,0.233,0.166,0.295
+Occlusion minus baseline,0.257,0.201,0.314

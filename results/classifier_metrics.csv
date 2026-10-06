@@ -1,0 +1,9 @@
+,estimate,ci_low,ci_high,patients,pneumonia
+"Model: ROC AUC, all test patients",0.884,0.874,0.894,5337,1203
+"Model: PR AUC, all test patients",0.714,0.689,0.742,5337,1203
+Shortcut (X-ray view only): ROC AUC,0.703,0.689,0.717,5337,1203
+Model minus shortcut,0.181,0.167,0.195,5337,1203
+"Model: ROC AUC, Bedside X-rays only (AP)",0.835,0.819,0.851,2401,920
+"Model: ROC AUC, Standard X-rays only (PA)",0.867,0.844,0.888,2936,283
+"Model: ROC AUC, Pneumonia vs Normal",0.975,0.969,0.98,2973,1203
+"Model: ROC AUC, Pneumonia vs Not Normal (other problems)",0.816,0.801,0.831,3567,1203

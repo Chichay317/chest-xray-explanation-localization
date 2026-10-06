@@ -1,0 +1,9 @@
+,estimate,ci_low,ci_high
+Probability: original image,0.695,0.678,0.711
+Probability: boxes hidden,0.371,0.356,0.388
+Probability: other area hidden,0.692,0.676,0.708
+Drop when boxes hidden,0.323,0.306,0.341
+Drop when other area hidden,0.002,-0.003,0.008
+Difference between the two drops,0.321,0.303,0.339
+No longer called pneumonia: boxes hidden,0.272,0.241,0.304
+No longer called pneumonia: other area hidden,0.014,0.006,0.023

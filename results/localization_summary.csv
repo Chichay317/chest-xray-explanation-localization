@@ -1,0 +1,43 @@
+,,estimate,ci_low,ci_high
+caught_hit,Grad-CAM,0.75,0.721,0.777
+caught_hit,Occlusion,0.626,0.595,0.657
+caught_hit,Baseline: usual location,0.604,0.574,0.636
+caught_hit,Random guess (box share),0.131,0.125,0.138
+caught_hit,Grad-CAM minus baseline,0.146,0.106,0.181
+caught_hit,Occlusion minus baseline,0.022,-0.018,0.063
+caught_hit,Grad-CAM minus occlusion,0.124,0.092,0.153
+caught_overlap,Grad-CAM,0.514,0.499,0.53
+caught_overlap,Occlusion,0.394,0.381,0.408
+caught_overlap,Baseline: usual location,0.462,0.446,0.476
+caught_overlap,Random guess (box share),0.131,0.125,0.137
+caught_overlap,Grad-CAM minus baseline,0.053,0.033,0.074
+caught_overlap,Occlusion minus baseline,-0.067,-0.086,-0.047
+caught_overlap,Grad-CAM minus occlusion,0.12,0.11,0.13
+all_hit,Grad-CAM,0.625,0.599,0.653
+all_hit,Occlusion,0.534,0.506,0.561
+all_hit,Baseline: usual location,0.55,0.523,0.578
+all_hit,Random guess (box share),0.118,0.113,0.123
+all_hit,Grad-CAM minus baseline,0.075,0.04,0.111
+all_hit,Occlusion minus baseline,-0.016,-0.052,0.019
+all_hit,Grad-CAM minus occlusion,0.091,0.064,0.118
+all_overlap,Grad-CAM,0.429,0.412,0.445
+all_overlap,Occlusion,0.339,0.326,0.353
+all_overlap,Baseline: usual location,0.425,0.411,0.438
+all_overlap,Random guess (box share),0.118,0.113,0.123
+all_overlap,Grad-CAM minus baseline,0.004,-0.015,0.023
+all_overlap,Occlusion minus baseline,-0.085,-0.104,-0.067
+all_overlap,Grad-CAM minus occlusion,0.089,0.08,0.099
+missed_hit,Grad-CAM,0.135,0.094,0.18
+missed_hit,Occlusion,0.176,0.127,0.225
+missed_hit,Baseline: usual location,0.34,0.279,0.402
+missed_hit,Random guess (box share),0.065,0.057,0.073
+missed_hit,Grad-CAM minus baseline,-0.205,-0.283,-0.131
+missed_hit,Occlusion minus baseline,-0.164,-0.238,-0.086
+missed_hit,Grad-CAM minus occlusion,-0.041,-0.09,0.008
+missed_overlap,Grad-CAM,0.092,0.07,0.117
+missed_overlap,Occlusion,0.124,0.101,0.149
+missed_overlap,Baseline: usual location,0.28,0.251,0.31
+missed_overlap,Random guess (box share),0.065,0.058,0.073
+missed_overlap,Grad-CAM minus baseline,-0.188,-0.223,-0.15
+missed_overlap,Occlusion minus baseline,-0.156,-0.19,-0.119
+missed_overlap,Grad-CAM minus occlusion,-0.032,-0.051,-0.013
